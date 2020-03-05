@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>The Communist Hub</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="HomePage.css">
+</head>
+<body>
+<script>
+alert("Welcome to the Communist Hub, this is the first and only Communist Hub in the whole TDSB system where fellow comrade can have a safe and friendly environment to rest. WE DO NOT WELCOME CAPITALIST PIGS OR ANYONE THAT DARE TO STAND IN THE WAY OF THE WORLD REVOLUTION. WE WILL BE WATCHING. YOU HAVE BEEN WARNED");
+</script>
+<div class="sidenav">
+
+<a href="homepage.html">The Supreme Gulag's Official Website</a>
+<a href="page2.html">About</a>
+<a href="page3.html">Our Mission</a>
+<a href="page4.html">Our Armed Forces</a>
+<a href="page5.html">Our Governmental Policies</a>
+<a href="page6.html">Our Laws and Constitution</a>
+<a href="page7.html">Contacts</a>
+</div>
+
+<div class="header">
+  <h1><img src="communismFlag.png"> The Communist Hub <img src="communismFlag.png"></h1>
+</div>
+
+<div class="content">
+<script>
+  (function() {
+    var cx = '013956918493245986641:djgqhqa6eym';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+<h3>The Supreme Gulag</h3>
+<p>Welcome Comrades!<br/>In this website, we will introduce you to the history of space explorations. You will ride
+the Explorer Spaceship to different space stations to learn about the history in a certain time period.
+<br/>If you want to learn more about space exploration's history, you can also go to the Google Custom Search Engine at the top of the page.
+Of course, I won't be able to cover every single space mission.(There are more than 1000 missions). So I am just going to cover the important milestone and important event that happed.
+There will also be some honerable mentions.</p>
+<h4>Enjoy your visit!</h4>
+<br/>
+<h3>Welcome to the Central Hub</h3><p>This is where your adventure will begin. This is where the Explorer Spaceship is docked and it will take you to anywhere. We also have some fun facts in here as well.</p>
+<p>Since we are going to give facts and state of all the space crafts in this website, it is only natural to include the Explorer Spaceship's stat and fact.</p>
+<h3 style= "text-align: center; padding-right: 10px;"><b>Explorer Spaceship</b></h3>
+<p style= "text-align: justify;"><img src="homepage1.png"style= "width:300px; height:170px;float: right;">
+  <b>Year of the Mission: </b>2019 and onto the future<br/>
+  <b>Present Day Location: </b>In the Central Hub of the Hub of Space Exploration<br/>
+  <b>Design: </b>A simple red rocket made in Paint by a 13 year olds imagination<br/>
+  <b>General Facts: </b>This ship have the speed of the internet, it is indetructable unless the HTML coding of it is somehow got destoryed<br/>
+  <b>Mission Briefing: </b>The mission of the Explorer Spaceship is to carry people from Station to Station for people to learn about the history of space exploration
+  </p>
+<br/>
+<br/>
+<br/>
+<h3>Space Exploration: Fun Fact</h3>
+<ol type="1">
+  <li>Despite so many missions into the space, only 3 people ever died in space.</li>
+  <li>Astronut Icecream, those chalky things that you get from gift shops of museum, are actually fake. Astronut never ate them in space.</li>
+  <li>The toilet on the ISS clogs constantly, so if you are up there, good luck!</li>
+  <li>You can actually travel to the ISS as a tourist for around $40 million!</li>
+  <li>Tourtois actually orbited the moon before human as the USSR send one of them on a probe that orbited the moon.</li>
+</ol>
+</div>
+
+<div class="footer">
+<p>If you find any problem in the Web, please contact me at <b>david.geng@student.tdsb.on.ca</b></p>
+<p>&#169; 2019 Hub of Space Exploration. All rights reserved.</p>
+</div>
+
+</body>
+</html>
