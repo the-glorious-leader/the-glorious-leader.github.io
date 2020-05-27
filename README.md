@@ -1,5 +1,5 @@
 # Communist-Hub
-hmmmmmmmmmmmm
-Uh this is random stuff and i am totally definitly not a communist. Also this is just for fun dont seriously. Also dont copy my code or KGB will find you
-HMMMM
-The Supreme Leader
+Welcome to Communist Hub hehe
+This is not a serious thing just a little thing I work on for fun
+Enjoy :)
+- The Glorious Leader/The Supreme Leader
