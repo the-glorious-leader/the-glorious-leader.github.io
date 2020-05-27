@@ -71,6 +71,22 @@ body {
   border-color: yellow;
 }
 
+.content a {
+  color: yellow;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  margin: 30px;
+  text-align: center;
+  border: 1px solid yellow;
+  background-color: red;
+}
+
+.content a:hover {
+  background-color: #cc0000;
+  color: yellow;
+}
+
 .content h1 {
   text-align: center;
 }
