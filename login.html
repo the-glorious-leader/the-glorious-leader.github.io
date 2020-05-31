@@ -11,31 +11,34 @@
   <div class="header">
     <h1><img src="communismFlag.png"> The Communist Hub <img src="communismFlag.png"></h1>
   </div>
+  <body>
+    <div class="content">
+      <h1>NKVD/KGB Security Checkpoint</h1>
+      <hr>
 
-  <div class="content">
-    <h1>NKVD/KGB Security Checkpoint</h1>
-    <hr>
+      <form name = "login">
+          Username:
+          <input type = "text" name = "userid" required><br/>
+          Password:
+          <input type = "password" name = "pswrd" required><br/>
+          <input type = "button" onclick = "check(this.form)" value = "Login">
+      </form>
 
-    <form name = "login">
-        Username:
-        <input type = "text" name = "userid" required>
-        Password:
-        <input type = "password" name = "pswrd" required>
-        <input type = "button" onclick = "check(this.form)" value = "Login">
-    </form>
+      <script language = "javascript">
+          function check(form){
+              if(form.userid.value == "Comrade" && form.pswrd.value == "papastalin"){
+                  window.open("HomePage.html",target = "_self");
+              }else{
+                  alert("ERROR! We will be watching you from now on");
+                  window.open("stalinGulag.html","_self");  
+              }
+          }
+      </script>
+    </div>
 
-    <script language = "javascript">
-        function check(form){
-            if(form.userid.value == "Comrade" && form.pswrd.value == "papastalin"){
-                window.open("HomePage.html",target = "_self")
-            }else{
-                alert("ERROR! We will be watching you from now on")
-            }
-        }
-    </script>
-  </div>
-
-  <div class="footer">
-    <p>Proudly sponsered by Союз Советских Социалистических Республик, 中华人民共和国, and The Fifth International</p>
-    <p>&#169; 2020 The Communist Hub. All rights reserved.</p>
-  </div>
+    <div class="footer">
+      <p>Proudly sponsered by Союз Советских Социалистических Республик, 中华人民共和国, and The Fifth International</p>
+      <p>&#169; 2020 The Communist Hub. All rights reserved.</p>
+    </div>
+  </body>
+</html>
